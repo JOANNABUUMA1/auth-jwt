@@ -8,6 +8,7 @@
 ## Introduction
 
 There are various types of authentication systems; we'll be focusing on a common one referred to as *Bearer Authentication*. The core of the process works like this:
+
 1. A user enters their login details into a form
 2. The client sends the credentials to a server in the body of a request to an API
 3. The server checks the credentials are correct
